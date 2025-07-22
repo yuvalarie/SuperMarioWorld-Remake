@@ -1,0 +1,2951 @@
+fileFormatVersion: 2
+guid: de922292312466b4985a0591e4a959a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 660971409418881381
+    second: Enemies - dinosaur - no background_0
+  - first:
+      213: -7579629918931164069
+    second: Enemies - dinosaur - no background_1
+  - first:
+      213: 3226143755082787229
+    second: Enemies - dinosaur - no background_2
+  - first:
+      213: 6237744345443334140
+    second: Enemies - dinosaur - no background_3
+  - first:
+      213: -7068637800590026368
+    second: Enemies - dinosaur - no background_4
+  - first:
+      213: 1133725163665236139
+    second: Enemies - dinosaur - no background_5
+  - first:
+      213: 4444068857024107760
+    second: Enemies - dinosaur - no background_6
+  - first:
+      213: -2503942418129923243
+    second: Enemies - dinosaur - no background_7
+  - first:
+      213: 796189250969802463
+    second: Enemies - dinosaur - no background_8
+  - first:
+      213: 7636938218724230053
+    second: Enemies - dinosaur - no background_9
+  - first:
+      213: 3822175051211988229
+    second: Enemies - dinosaur - no background_10
+  - first:
+      213: -8736586345900677085
+    second: Enemies - dinosaur - no background_11
+  - first:
+      213: -1462957046914498003
+    second: Enemies - dinosaur - no background_12
+  - first:
+      213: 2793637266176911724
+    second: Enemies - dinosaur - no background_13
+  - first:
+      213: 8157907898445849362
+    second: Enemies - dinosaur - no background_14
+  - first:
+      213: 4409954255977869400
+    second: Enemies - dinosaur - no background_15
+  - first:
+      213: 4938232083761180050
+    second: Enemies - dinosaur - no background_16
+  - first:
+      213: -4315742247767534091
+    second: Enemies - dinosaur - no background_17
+  - first:
+      213: -6076684942811969194
+    second: Enemies - dinosaur - no background_18
+  - first:
+      213: 1037048822405422160
+    second: Enemies - dinosaur - no background_19
+  - first:
+      213: 2805803127446445965
+    second: Enemies - dinosaur - no background_20
+  - first:
+      213: -7662957238215996139
+    second: Enemies - dinosaur - no background_21
+  - first:
+      213: -2524116514889078553
+    second: Enemies - dinosaur - no background_22
+  - first:
+      213: 6067933392162288226
+    second: Enemies - dinosaur - no background_23
+  - first:
+      213: 5587146174317656676
+    second: Enemies - dinosaur - no background_24
+  - first:
+      213: -5262465701191328625
+    second: Enemies - dinosaur - no background_25
+  - first:
+      213: -5582295711739623168
+    second: Enemies - dinosaur - no background_26
+  - first:
+      213: 3155927766405403208
+    second: Enemies - dinosaur - no background_27
+  - first:
+      213: -5712970966478605440
+    second: Enemies - dinosaur - no background_28
+  - first:
+      213: -7153190587024439092
+    second: Enemies - dinosaur - no background_29
+  - first:
+      213: 2875128189115306399
+    second: Enemies - dinosaur - no background_30
+  - first:
+      213: 8644881547214027458
+    second: Enemies - dinosaur - no background_31
+  - first:
+      213: -3504850558398739087
+    second: Enemies - dinosaur - no background_32
+  - first:
+      213: 4972716437428959725
+    second: Enemies - dinosaur - no background_33
+  - first:
+      213: 4720456383860425801
+    second: Enemies - dinosaur - no background_34
+  - first:
+      213: 5172924035801577414
+    second: Enemies - dinosaur - no background_35
+  - first:
+      213: -3761667982481702423
+    second: Enemies - dinosaur - no background_36
+  - first:
+      213: 3569637228890100505
+    second: Enemies - dinosaur - no background_37
+  - first:
+      213: -8413863025042795621
+    second: Enemies - dinosaur - no background_38
+  - first:
+      213: -8862156734264607761
+    second: Enemies - dinosaur - no background_39
+  - first:
+      213: 9159904290640180611
+    second: Enemies - dinosaur - no background_40
+  - first:
+      213: -6317252890855237768
+    second: Enemies - dinosaur - no background_41
+  - first:
+      213: 1778918093300369813
+    second: Enemies - dinosaur - no background_42
+  - first:
+      213: 6717152269919398971
+    second: Enemies - dinosaur - no background_43
+  - first:
+      213: -3477768098636719355
+    second: Enemies - dinosaur - no background_44
+  - first:
+      213: -4899210896487017156
+    second: Enemies - dinosaur - no background_45
+  - first:
+      213: 4443407918777044011
+    second: Enemies - dinosaur - no background_46
+  - first:
+      213: -7658477501032944540
+    second: Enemies - dinosaur - no background_47
+  - first:
+      213: 4238453317657824097
+    second: Enemies - dinosaur - no background_48
+  - first:
+      213: 4480903504154738210
+    second: Enemies - dinosaur - no background_49
+  - first:
+      213: -8423115535150610012
+    second: Enemies - dinosaur - no background_50
+  - first:
+      213: -291061867339518336
+    second: Enemies - dinosaur - no background_51
+  - first:
+      213: 5423350583041648184
+    second: Enemies - dinosaur - no background_52
+  - first:
+      213: 4441012051773856678
+    second: Enemies - dinosaur - no background_53
+  - first:
+      213: -6832015287764668014
+    second: Enemies - dinosaur - no background_54
+  - first:
+      213: -6825819766583804693
+    second: Enemies - dinosaur - no background_55
+  - first:
+      213: -4785371308697727734
+    second: Enemies - dinosaur - no background_56
+  - first:
+      213: -8560182886776535097
+    second: Enemies - dinosaur - no background_57
+  - first:
+      213: -1984355180438736694
+    second: Enemies - dinosaur - no background_58
+  - first:
+      213: 6624942332978036639
+    second: Enemies - dinosaur - no background_59
+  - first:
+      213: 7019946638906222620
+    second: Enemies - dinosaur - no background_60
+  - first:
+      213: 5993029139171625214
+    second: Enemies - dinosaur - no background_61
+  - first:
+      213: 3703621899858888290
+    second: Enemies - dinosaur - no background_62
+  - first:
+      213: -5016612052398026304
+    second: Enemies - dinosaur - no background_63
+  - first:
+      213: -1273977212275119998
+    second: Enemies - dinosaur - no background_64
+  - first:
+      213: 3470050905225062985
+    second: Enemies - dinosaur - no background_65
+  - first:
+      213: 2706050434474377454
+    second: Enemies - dinosaur - no background_66
+  - first:
+      213: 6544741211374950106
+    second: Enemies - dinosaur - no background_67
+  - first:
+      213: 1361735654885177200
+    second: Enemies - dinosaur - no background_68
+  - first:
+      213: -2984811482519148627
+    second: Enemies - dinosaur - no background_69
+  - first:
+      213: -3244929907757359683
+    second: Enemies - dinosaur - no background_70
+  - first:
+      213: 425427764181229617
+    second: Enemies - dinosaur - no background_71
+  - first:
+      213: 5197099269064167268
+    second: Enemies - dinosaur - no background_72
+  - first:
+      213: -1357526061851090451
+    second: Enemies - dinosaur - no background_73
+  - first:
+      213: 686234737494147824
+    second: Enemies - dinosaur - no background_74
+  - first:
+      213: -8287008697868336099
+    second: Enemies - dinosaur - no background_75
+  - first:
+      213: -2303702030981049682
+    second: Enemies - dinosaur - no background_76
+  - first:
+      213: -1848960059778143330
+    second: Enemies - dinosaur - no background_77
+  - first:
+      213: 5400123846094573364
+    second: Enemies - dinosaur - no background_78
+  - first:
+      213: -5277800539876603788
+    second: Enemies - dinosaur - no background_79
+  - first:
+      213: -7740899379649718507
+    second: Enemies - dinosaur - no background_80
+  - first:
+      213: 7582759389783026429
+    second: Enemies - dinosaur - no background_81
+  - first:
+      213: -8833403174714266487
+    second: Enemies - dinosaur - no background_82
+  - first:
+      213: 8312083319669605490
+    second: Enemies - dinosaur - no background_83
+  - first:
+      213: 1609893587202283468
+    second: Enemies - dinosaur - no background_84
+  - first:
+      213: 6212391004539235452
+    second: Enemies - dinosaur - no background_85
+  - first:
+      213: -5355161035063217338
+    second: Enemies - dinosaur - no background_86
+  - first:
+      213: 850485234253467799
+    second: Enemies - dinosaur - no background_87
+  - first:
+      213: 4510977606296401786
+    second: Enemies - dinosaur - no background_88
+  - first:
+      213: 1785939935550810140
+    second: Enemies - dinosaur - no background_89
+  - first:
+      213: -5451653570003092867
+    second: Enemies - dinosaur - no background_90
+  - first:
+      213: 4596559970331609349
+    second: Enemies - dinosaur - no background_91
+  - first:
+      213: -3347709139407596992
+    second: Enemies - dinosaur - no background_92
+  - first:
+      213: 3813958980578231512
+    second: Enemies - dinosaur - no background_93
+  - first:
+      213: -4548361451981340443
+    second: Enemies - dinosaur - no background_94
+  - first:
+      213: 6127846322831819751
+    second: Enemies - dinosaur - no background_95
+  - first:
+      213: -1071717767701139351
+    second: Enemies - dinosaur - no background_96
+  - first:
+      213: -4407371973737882604
+    second: Enemies - dinosaur - no background_97
+  - first:
+      213: -568084914467134874
+    second: Enemies - dinosaur - no background_98
+  - first:
+      213: -5229915103664509067
+    second: Enemies - dinosaur - no background_99
+  - first:
+      213: -4363063176619962498
+    second: Enemies - dinosaur - no background_100
+  - first:
+      213: 3068522291204869217
+    second: Enemies - dinosaur - no background_101
+  - first:
+      213: -3222605607974205989
+    second: Enemies - dinosaur - no background_102
+  - first:
+      213: 3588144220329601456
+    second: Enemies - dinosaur - no background_103
+  - first:
+      213: 9048929259064056111
+    second: Enemies - dinosaur - no background_104
+  - first:
+      213: 4096753935036662338
+    second: Enemies - dinosaur - no background_105
+  - first:
+      213: 3947428939104045883
+    second: Enemies - dinosaur - no background_106
+  - first:
+      213: -1730340464036238626
+    second: Enemies - dinosaur - no background_107
+  - first:
+      213: -3809060850173227184
+    second: Enemies - dinosaur - no background_108
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 145
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5690a11befd3c2900800000000000000
+      internalID: 660971409418881381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 145
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b546f215fbebfc690800000000000000
+      internalID: -7579629918931164069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 145
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99ed0407a095cc20800000000000000
+      internalID: 3226143755082787229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 145
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7f9d5ee6be09650800000000000000
+      internalID: 6237744345443334140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 144
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089dee12f5727ed90800000000000000
+      internalID: -7068637800590026368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 143
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba02035970dcbbf00800000000000000
+      internalID: 1133725163665236139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 143
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f45c4c64118cad30800000000000000
+      internalID: 4444068857024107760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 143
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553555d13a5304dd0800000000000000
+      internalID: -2503942418129923243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_8
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 147
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd61a06c7e1ac0b00800000000000000
+      internalID: 796189250969802463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 147
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a389a209dadbf960800000000000000
+      internalID: 7636938218724230053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_10
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 147
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dd9d455f71b0530800000000000000
+      internalID: 3822175051211988229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 147
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328ef0fb10961c680800000000000000
+      internalID: -8736586345900677085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_12
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 147
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22c101215882bbe0800000000000000
+      internalID: -1462957046914498003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_13
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 147
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69a4c1da4ef4c620800000000000000
+      internalID: 2793637266176911724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_14
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 147
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213e73dd206b63170800000000000000
+      internalID: 8157907898445849362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_15
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 151
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8507847e70e433d30800000000000000
+      internalID: 4409954255977869400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 150
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29da5039aef188440800000000000000
+      internalID: 4938232083761180050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 121
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f59bab9a476b14c0800000000000000
+      internalID: -4315742247767534091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 121
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6594abb7d374baba0800000000000000
+      internalID: -6076684942811969194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 121
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c5632d866546e00800000000000000
+      internalID: 1037048822405422160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_20
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 121
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f1021241730f620800000000000000
+      internalID: 2805803127446445965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_21
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 120
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d802fedf4b7a590800000000000000
+      internalID: -7662957238215996139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 119
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8e65e276988fcd0800000000000000
+      internalID: -2524116514889078553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_23
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 118
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26270985541a53450800000000000000
+      internalID: 6067933392162288226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_24
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 118
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46af264f7d7898d40800000000000000
+      internalID: 5587146174317656676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_25
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 128
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c50d59357f7f6b0800000000000000
+      internalID: -5262465701191328625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_26
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 128
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009c29e50a3b782b0800000000000000
+      internalID: -5582295711739623168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_27
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 125
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842d26d259b1ccb20800000000000000
+      internalID: 3155927766405403208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_28
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 125
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0833ce2bc2377b0b0800000000000000
+      internalID: -5712970966478605440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_29
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 125
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc88db17f03cabc90800000000000000
+      internalID: -7153190587024439092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_30
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 124
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f911eebdad186e720800000000000000
+      internalID: 2875128189115306399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_31
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 125
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca7503f6f9c8f770800000000000000
+      internalID: 8644881547214027458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_32
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 129
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d40d39cf44c5fc0800000000000000
+      internalID: -3504850558398739087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 129
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9f2b5d043a20540800000000000000
+      internalID: 4972716437428959725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_34
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 129
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944c9b1321e628140800000000000000
+      internalID: 4720456383860425801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 82
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c77804d00be9c740800000000000000
+      internalID: 5172924035801577414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 82
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1c73d66eedbcbc0800000000000000
+      internalID: -3761667982481702423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_37
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 83
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913110d9526e98130800000000000000
+      internalID: 3569637228890100505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 83
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93d7834824fb3b80800000000000000
+      internalID: -8413863025042795621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_39
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 107
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb7256676b430580800000000000000
+      internalID: -8862156734264607761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_40
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 107
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3853f2ccb648e1f70800000000000000
+      internalID: 9159904290640180611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_41
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 103
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877934c47fb9458a0800000000000000
+      internalID: -6317252890855237768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_42
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 102
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5990faba49cffa810800000000000000
+      internalID: 1778918093300369813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_43
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c21c6866e183d50800000000000000
+      internalID: 6717152269919398971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_44
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 90
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b929d175c7cbfc0800000000000000
+      internalID: -3477768098636719355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_45
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 90
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c351b2395a1820cb0800000000000000
+      internalID: -4899210896487017156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_46
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 90
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5000034, y: 1.0920516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c0ddeb5f72aad30800000000000000
+      internalID: 4443407918777044011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_47
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 90
+        width: 18
+        height: 17
+      alignment: 9
+      pivot: {x: 0.48441738, y: 1.1598722}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c2c960a4f97b590800000000000000
+      internalID: -7658477501032944540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_48
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 82
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b021c06d202da30800000000000000
+      internalID: 4238453317657824097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_49
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 83
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e32f50ffd5f2e30800000000000000
+      internalID: 4480903504154738210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_50
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 83
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a906416c051b1b80800000000000000
+      internalID: -8423115535150610012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_51
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 83
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ee09516c0f5fbf0800000000000000
+      internalID: -291061867339518336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_52
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 86
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836ea920f9c934b40800000000000000
+      internalID: 5423350583041648184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_53
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 86
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab953d7ee4a1ad30800000000000000
+      internalID: 4441012051773856678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_54
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 64
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291bfb81b4ecf21a0800000000000000
+      internalID: -6832015287764668014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_55
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 63
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becbee74611d541a0800000000000000
+      internalID: -6825819766583804693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_56
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 90
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0dc9b21622f69db0800000000000000
+      internalID: -4785371308697727734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_57
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 49
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c78e4da40f143980800000000000000
+      internalID: -8560182886776535097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_58
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 47
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac03eb91a772674e0800000000000000
+      internalID: -1984355180438736694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_59
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 67
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f7a9e83f580fb50800000000000000
+      internalID: 6624942332978036639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_60
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 67
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18e33a564cdb6160800000000000000
+      internalID: 7019946638906222620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_61
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 58
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8c3e8ef348b2350800000000000000
+      internalID: 5993029139171625214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_62
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 64
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266427bce78e56330800000000000000
+      internalID: 3703621899858888290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_63
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 65
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c15fd0eae9616ab0800000000000000
+      internalID: -5016612052398026304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_64
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 64
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288266aa97ce15ee0800000000000000
+      internalID: -1273977212275119998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_65
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a6676c9e8182030800000000000000
+      internalID: 3470050905225062985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_66
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 49
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0032b6882dd8520800000000000000
+      internalID: 2706050434474377454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_67
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 49
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad61ddac47793da50800000000000000
+      internalID: 6544741211374950106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_68
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0773a630d5bd5e210800000000000000
+      internalID: 1361735654885177200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_69
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 47
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da760f655c1d396d0800000000000000
+      internalID: -2984811482519148627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_70
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 48
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdd417f071b7f2d0800000000000000
+      internalID: -3244929907757359683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_71
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 48
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1306c992c4c67e500800000000000000
+      internalID: 425427764181229617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_72
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 48
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f0303ff3ecf1840800000000000000
+      internalID: 5197099269064167268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_73
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1e70e3d39192de0800000000000000
+      internalID: -1357526061851090451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_74
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 22
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f24fd0abdef58900800000000000000
+      internalID: 686234737494147824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_75
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 43
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d144cf8ee71aefc80800000000000000
+      internalID: -8287008697868336099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_76
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 40
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea25707553b9700e0800000000000000
+      internalID: -2303702030981049682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_77
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 40
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9be9013f9c2756e0800000000000000
+      internalID: -1848960059778143330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_78
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 40
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f4595e60811fa40800000000000000
+      internalID: 5400123846094573364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_79
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 40
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4784a493f5c71c6b0800000000000000
+      internalID: -5277800539876603788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 22
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517dfe9f60dc29490800000000000000
+      internalID: -7740899379649718507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_81
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 22
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa66456d7f5b3960800000000000000
+      internalID: 7582759389783026429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_82
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 22
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c295d2d92796580800000000000000
+      internalID: -8833403174714266487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_83
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 22
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2744b5c6db37a5370800000000000000
+      internalID: 8312083319669605490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_84
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 24
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc71f5f10bd775610800000000000000
+      internalID: 1609893587202283468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_85
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 24
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ca46734b8d63650800000000000000
+      internalID: 6212391004539235452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_86
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 23
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6433b065965aea5b0800000000000000
+      internalID: -5355161035063217338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_87
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 23
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790946280d78dcb00800000000000000
+      internalID: 850485234253467799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_88
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 21
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77f9059b363a9e30800000000000000
+      internalID: 4510977606296401786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_89
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 21
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18a0b8b8eee8c810800000000000000
+      internalID: 1785939935550810140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_90
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ab97156f5d754b0800000000000000
+      internalID: -5451653570003092867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_91
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 21
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509456c70f24acf30800000000000000
+      internalID: 4596559970331609349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_92
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042184e464c8a81d0800000000000000
+      internalID: -3347709139407596992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_93
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4c6415c77ede430800000000000000
+      internalID: 3813958980578231512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_94
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e082909b59f0e0c0800000000000000
+      internalID: -4548361451981340443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_95
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3039e83cb7a0550800000000000000
+      internalID: 6127846322831819751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_96
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960f2b45e5e7021f0800000000000000
+      internalID: -1071717767701139351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_97
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c57588a8ed5d2c0800000000000000
+      internalID: -4407371973737882604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_98
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662ade6b7c1cd18f0800000000000000
+      internalID: -568084914467134874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_99
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f60a82ceb9b67b0800000000000000
+      internalID: -5229915103664509067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_100
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fcaf848294373c0800000000000000
+      internalID: -4363063176619962498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_101
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c42a024c4959a20800000000000000
+      internalID: 3068522291204869217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_102
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5048d06410743d0800000000000000
+      internalID: -3222605607974205989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_103
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9ed975826abc130800000000000000
+      internalID: 3588144220329601456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_104
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29d624c731449d70800000000000000
+      internalID: 9048929259064056111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_105
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2424b069ff79ad830800000000000000
+      internalID: 4096753935036662338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_106
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bc46ba4b518c630800000000000000
+      internalID: 3947428939104045883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_107
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edaa2a404889cf7e0800000000000000
+      internalID: -1730340464036238626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - dinosaur - no background_108
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fc399865f732bc0800000000000000
+      internalID: -3809060850173227184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1a9d54a51c509ff4f86c19847b0c4741
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Enemies - dinosaur - no background_0: 660971409418881381
+      Enemies - dinosaur - no background_1: -7579629918931164069
+      Enemies - dinosaur - no background_10: 3822175051211988229
+      Enemies - dinosaur - no background_100: -4363063176619962498
+      Enemies - dinosaur - no background_101: 3068522291204869217
+      Enemies - dinosaur - no background_102: -3222605607974205989
+      Enemies - dinosaur - no background_103: 3588144220329601456
+      Enemies - dinosaur - no background_104: 9048929259064056111
+      Enemies - dinosaur - no background_105: 4096753935036662338
+      Enemies - dinosaur - no background_106: 3947428939104045883
+      Enemies - dinosaur - no background_107: -1730340464036238626
+      Enemies - dinosaur - no background_108: -3809060850173227184
+      Enemies - dinosaur - no background_11: -8736586345900677085
+      Enemies - dinosaur - no background_12: -1462957046914498003
+      Enemies - dinosaur - no background_13: 2793637266176911724
+      Enemies - dinosaur - no background_14: 8157907898445849362
+      Enemies - dinosaur - no background_15: 4409954255977869400
+      Enemies - dinosaur - no background_16: 4938232083761180050
+      Enemies - dinosaur - no background_17: -4315742247767534091
+      Enemies - dinosaur - no background_18: -6076684942811969194
+      Enemies - dinosaur - no background_19: 1037048822405422160
+      Enemies - dinosaur - no background_2: 3226143755082787229
+      Enemies - dinosaur - no background_20: 2805803127446445965
+      Enemies - dinosaur - no background_21: -7662957238215996139
+      Enemies - dinosaur - no background_22: -2524116514889078553
+      Enemies - dinosaur - no background_23: 6067933392162288226
+      Enemies - dinosaur - no background_24: 5587146174317656676
+      Enemies - dinosaur - no background_25: -5262465701191328625
+      Enemies - dinosaur - no background_26: -5582295711739623168
+      Enemies - dinosaur - no background_27: 3155927766405403208
+      Enemies - dinosaur - no background_28: -5712970966478605440
+      Enemies - dinosaur - no background_29: -7153190587024439092
+      Enemies - dinosaur - no background_3: 6237744345443334140
+      Enemies - dinosaur - no background_30: 2875128189115306399
+      Enemies - dinosaur - no background_31: 8644881547214027458
+      Enemies - dinosaur - no background_32: -3504850558398739087
+      Enemies - dinosaur - no background_33: 4972716437428959725
+      Enemies - dinosaur - no background_34: 4720456383860425801
+      Enemies - dinosaur - no background_35: 5172924035801577414
+      Enemies - dinosaur - no background_36: -3761667982481702423
+      Enemies - dinosaur - no background_37: 3569637228890100505
+      Enemies - dinosaur - no background_38: -8413863025042795621
+      Enemies - dinosaur - no background_39: -8862156734264607761
+      Enemies - dinosaur - no background_4: -7068637800590026368
+      Enemies - dinosaur - no background_40: 9159904290640180611
+      Enemies - dinosaur - no background_41: -6317252890855237768
+      Enemies - dinosaur - no background_42: 1778918093300369813
+      Enemies - dinosaur - no background_43: 6717152269919398971
+      Enemies - dinosaur - no background_44: -3477768098636719355
+      Enemies - dinosaur - no background_45: -4899210896487017156
+      Enemies - dinosaur - no background_46: 4443407918777044011
+      Enemies - dinosaur - no background_47: -7658477501032944540
+      Enemies - dinosaur - no background_48: 4238453317657824097
+      Enemies - dinosaur - no background_49: 4480903504154738210
+      Enemies - dinosaur - no background_5: 1133725163665236139
+      Enemies - dinosaur - no background_50: -8423115535150610012
+      Enemies - dinosaur - no background_51: -291061867339518336
+      Enemies - dinosaur - no background_52: 5423350583041648184
+      Enemies - dinosaur - no background_53: 4441012051773856678
+      Enemies - dinosaur - no background_54: -6832015287764668014
+      Enemies - dinosaur - no background_55: -6825819766583804693
+      Enemies - dinosaur - no background_56: -4785371308697727734
+      Enemies - dinosaur - no background_57: -8560182886776535097
+      Enemies - dinosaur - no background_58: -1984355180438736694
+      Enemies - dinosaur - no background_59: 6624942332978036639
+      Enemies - dinosaur - no background_6: 4444068857024107760
+      Enemies - dinosaur - no background_60: 7019946638906222620
+      Enemies - dinosaur - no background_61: 5993029139171625214
+      Enemies - dinosaur - no background_62: 3703621899858888290
+      Enemies - dinosaur - no background_63: -5016612052398026304
+      Enemies - dinosaur - no background_64: -1273977212275119998
+      Enemies - dinosaur - no background_65: 3470050905225062985
+      Enemies - dinosaur - no background_66: 2706050434474377454
+      Enemies - dinosaur - no background_67: 6544741211374950106
+      Enemies - dinosaur - no background_68: 1361735654885177200
+      Enemies - dinosaur - no background_69: -2984811482519148627
+      Enemies - dinosaur - no background_7: -2503942418129923243
+      Enemies - dinosaur - no background_70: -3244929907757359683
+      Enemies - dinosaur - no background_71: 425427764181229617
+      Enemies - dinosaur - no background_72: 5197099269064167268
+      Enemies - dinosaur - no background_73: -1357526061851090451
+      Enemies - dinosaur - no background_74: 686234737494147824
+      Enemies - dinosaur - no background_75: -8287008697868336099
+      Enemies - dinosaur - no background_76: -2303702030981049682
+      Enemies - dinosaur - no background_77: -1848960059778143330
+      Enemies - dinosaur - no background_78: 5400123846094573364
+      Enemies - dinosaur - no background_79: -5277800539876603788
+      Enemies - dinosaur - no background_8: 796189250969802463
+      Enemies - dinosaur - no background_80: -7740899379649718507
+      Enemies - dinosaur - no background_81: 7582759389783026429
+      Enemies - dinosaur - no background_82: -8833403174714266487
+      Enemies - dinosaur - no background_83: 8312083319669605490
+      Enemies - dinosaur - no background_84: 1609893587202283468
+      Enemies - dinosaur - no background_85: 6212391004539235452
+      Enemies - dinosaur - no background_86: -5355161035063217338
+      Enemies - dinosaur - no background_87: 850485234253467799
+      Enemies - dinosaur - no background_88: 4510977606296401786
+      Enemies - dinosaur - no background_89: 1785939935550810140
+      Enemies - dinosaur - no background_9: 7636938218724230053
+      Enemies - dinosaur - no background_90: -5451653570003092867
+      Enemies - dinosaur - no background_91: 4596559970331609349
+      Enemies - dinosaur - no background_92: -3347709139407596992
+      Enemies - dinosaur - no background_93: 3813958980578231512
+      Enemies - dinosaur - no background_94: -4548361451981340443
+      Enemies - dinosaur - no background_95: 6127846322831819751
+      Enemies - dinosaur - no background_96: -1071717767701139351
+      Enemies - dinosaur - no background_97: -4407371973737882604
+      Enemies - dinosaur - no background_98: -568084914467134874
+      Enemies - dinosaur - no background_99: -5229915103664509067
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

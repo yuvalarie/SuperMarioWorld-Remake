@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: 887b02b0bd8d6f04d9b98093271a8dd3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4091621538468205394
+    second: Enemies - turtle1 - no background_0
+  - first:
+      213: -8318780145884877639
+    second: Enemies - turtle1 - no background_1
+  - first:
+      213: -5180976774787833204
+    second: Enemies - turtle1 - no background_2
+  - first:
+      213: 3588875490915363107
+    second: Enemies - turtle1 - no background_3
+  - first:
+      213: -4055133721876014495
+    second: Enemies - turtle1 - no background_4
+  - first:
+      213: -2755825389657415197
+    second: Enemies - turtle1 - no background_5
+  - first:
+      213: -5562258489832806755
+    second: Enemies - turtle1 - no background_6
+  - first:
+      213: -5883390517919217140
+    second: Enemies - turtle1 - no background_7
+  - first:
+      213: -837655228795736211
+    second: Enemies - turtle1 - no background_8
+  - first:
+      213: -1302374897156167311
+    second: Enemies - turtle1 - no background_9
+  - first:
+      213: -23865540561458852
+    second: Enemies - turtle1 - no background_10
+  - first:
+      213: -6145498020906517968
+    second: Enemies - turtle1 - no background_11
+  - first:
+      213: 6423976494981150730
+    second: Enemies - turtle1 - no background_12
+  - first:
+      213: -1829561150295887811
+    second: Enemies - turtle1 - no background_13
+  - first:
+      213: 6992216544329226173
+    second: Enemies - turtle1 - no background_14
+  - first:
+      213: -4821777120534997064
+    second: Enemies - turtle1 - no background_15
+  - first:
+      213: 8552341045025714277
+    second: Enemies - turtle1 - no background_16
+  - first:
+      213: 2292623185420222644
+    second: Enemies - turtle1 - no background_17
+  - first:
+      213: 4413200591769823156
+    second: Enemies - turtle1 - no background_18
+  - first:
+      213: -82169279525984935
+    second: Enemies - turtle1 - no background_19
+  - first:
+      213: 5338944223739717943
+    second: Enemies - turtle1 - no background_20
+  - first:
+      213: -1057403735708750065
+    second: Enemies - turtle1 - no background_21
+  - first:
+      213: 4697680283585346832
+    second: Enemies - turtle1 - no background_22
+  - first:
+      213: -780407887818950057
+    second: Enemies - turtle1 - no background_23
+  - first:
+      213: -3702566056801776785
+    second: Enemies - turtle1 - no background_24
+  - first:
+      213: -1793398379033054983
+    second: Enemies - turtle1 - no background_25
+  - first:
+      213: 6873552753820855492
+    second: Enemies - turtle1 - no background_26
+  - first:
+      213: -4849162961662548957
+    second: Enemies - turtle1 - no background_27
+  - first:
+      213: 1246213903024266774
+    second: Enemies - turtle1 - no background_28
+  - first:
+      213: 3525370675564577363
+    second: Enemies - turtle1 - no background_29
+  - first:
+      213: -1218317184646767182
+    second: Enemies - turtle1 - no background_30
+  - first:
+      213: 9211170327298818753
+    second: Enemies - turtle1 - no background_31
+  - first:
+      213: -1036555843484613536
+    second: Enemies - turtle1 - no background_32
+  - first:
+      213: 6042110320379546726
+    second: Enemies - turtle1 - no background_33
+  - first:
+      213: 6107923342117068784
+    second: Enemies - turtle1 - no background_34
+  - first:
+      213: -3208463664688749868
+    second: Enemies - turtle1 - no background_35
+  - first:
+      213: -6457262042188547821
+    second: Enemies - turtle1 - no background_36
+  - first:
+      213: 9105995081957305542
+    second: Enemies - turtle1 - no background_37
+  - first:
+      213: 2655233885564400891
+    second: Enemies - turtle1 - no background_38
+  - first:
+      213: 1349576145751931583
+    second: Enemies - turtle1 - no background_39
+  - first:
+      213: 5320323337230357008
+    second: Enemies - turtle1 - no background_40
+  - first:
+      213: -389475555701383526
+    second: Enemies - turtle1 - no background_41
+  - first:
+      213: -7628629660881966564
+    second: Enemies - turtle1 - no background_42
+  - first:
+      213: -1400774313843997597
+    second: Enemies - turtle1 - no background_43
+  - first:
+      213: -4943201971278975195
+    second: Enemies - turtle1 - no background_44
+  - first:
+      213: -1166894660373420137
+    second: Enemies - turtle1 - no background_45
+  - first:
+      213: -8167704902387706203
+    second: Enemies - turtle1 - no background_46
+  - first:
+      213: -2495390012080470468
+    second: Enemies - turtle1 - no background_47
+  - first:
+      213: 8860472764106801608
+    second: Enemies - turtle1 - no background_48
+  - first:
+      213: -761406667187094972
+    second: Enemies - turtle1 - no background_49
+  - first:
+      213: 2356089861885631594
+    second: Enemies - turtle1 - no background_50
+  - first:
+      213: -1359161714419145615
+    second: Enemies - turtle1 - no background_51
+  - first:
+      213: 1995899365174890614
+    second: Enemies - turtle1 - no background_52
+  - first:
+      213: -7252607374473624497
+    second: Enemies - turtle1 - no background_53
+  - first:
+      213: -8132374990565636393
+    second: Enemies - turtle1 - no background_54
+  - first:
+      213: -3067191587954809700
+    second: Enemies - turtle1 - no background_55
+  - first:
+      213: -8168246039439004593
+    second: Enemies - turtle1 - no background_56
+  - first:
+      213: 3107139952107293136
+    second: Enemies - turtle1 - no background_57
+  - first:
+      213: -1616666106996368679
+    second: Enemies - turtle1 - no background_58
+  - first:
+      213: -3759832430563179952
+    second: Enemies - turtle1 - no background_59
+  - first:
+      213: -35479038769063685
+    second: Enemies - turtle1 - no background_60
+  - first:
+      213: -7167265901187216660
+    second: Enemies - turtle1 - no background_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 43
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eace34c93e3a737c0800000000000000
+      internalID: -4091621538468205394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 43
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bca5f73881cd8c80800000000000000
+      internalID: -8318780145884877639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 43
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82e835c2197918b0800000000000000
+      internalID: -5180976774787833204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 42
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329ad1b8e3f3ec130800000000000000
+      internalID: 3588875490915363107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 42
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a5fde6d5549b7c0800000000000000
+      internalID: -4055133721876014495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 41
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1a77ab86751c9d0800000000000000
+      internalID: -2755825389657415197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 41
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d966d94af53eec2b0800000000000000
+      internalID: -5562258489832806755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 40
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a0688de7ff95ea0800000000000000
+      internalID: -5883390517919217140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 40
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fa16be10d0064f0800000000000000
+      internalID: -837655228795736211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_9
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 57
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179ee9a6ee80dede0800000000000000
+      internalID: -1302374897156167311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 57
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c592674da663baff0800000000000000
+      internalID: -23865540561458852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_11
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 56
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a30083c1ec6baa0800000000000000
+      internalID: -6145498020906517968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_12
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 54
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a087fc4269c862950800000000000000
+      internalID: 6423976494981150730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_13
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 58
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3032c5c3d71c96e0800000000000000
+      internalID: -1829561150295887811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_14
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 57
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db75a5596e7590160800000000000000
+      internalID: 6992216544329226173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_15
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 57
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7d768714b951db0800000000000000
+      internalID: -4821777120534997064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_16
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 57
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56030c24ed400b670800000000000000
+      internalID: 8552341045025714277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_17
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 39
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b00ccae3a801df10800000000000000
+      internalID: 2292623185420222644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_18
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 39
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7ebfa5e86de3d30800000000000000
+      internalID: 4413200591769823156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_19
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 39
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9556762c9731cdef0800000000000000
+      internalID: -82169279525984935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_20
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 39
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73921ab0c7db71a40800000000000000
+      internalID: 5338944223739717943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_21
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 39
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fa8ec97e85351f0800000000000000
+      internalID: -1057403735708750065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_22
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 39
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01df57b1453813140800000000000000
+      internalID: 4697680283585346832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_23
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 39
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a73aa292f6b25f0800000000000000
+      internalID: -780407887818950057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_24
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 39
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b49e2d9c7dd9cc0800000000000000
+      internalID: -3702566056801776785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_25
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 39
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f039f41da19c17e0800000000000000
+      internalID: -1793398379033054983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_26
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 39
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc666cdfc3c36f50800000000000000
+      internalID: 6873552753820855492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_27
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 38
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3246f147aff44bcb0800000000000000
+      internalID: -4849162961662548957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_28
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 38
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e1aeb21f07b4110800000000000000
+      internalID: 1246213903024266774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_29
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 38
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3520b9283f1ace030800000000000000
+      internalID: 3525370675564577363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 38
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd1069b9faa71fe0800000000000000
+      internalID: -1218317184646767182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2c34c1c96a4df70800000000000000
+      internalID: 9211170327298818753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_32
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0648e37c3f96d91f0800000000000000
+      internalID: -1036555843484613536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_33
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 5
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cc1fbe253e9d350800000000000000
+      internalID: 6042110320379546726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_34
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 4
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff54322be3b3c450800000000000000
+      internalID: 6107923342117068784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_35
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 4
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2aa7fcb4f3973d0800000000000000
+      internalID: -3208463664688749868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 3
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319fcb972623366a0800000000000000
+      internalID: -6457262042188547821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_37
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cce48a084efe5e70800000000000000
+      internalID: 9105995081957305542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_38
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf475a0a62949d420800000000000000
+      internalID: 2655233885564400891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_39
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba72ecaa58aab210800000000000000
+      internalID: 1349576145751931583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_40
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 18
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01216dd03e595d940800000000000000
+      internalID: 5320323337230357008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_41
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 18
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e98bdab0e489af0800000000000000
+      internalID: -389475555701383526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_42
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 17
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a2f1cddb9a12690800000000000000
+      internalID: -7628629660881966564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_43
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36446d4ee237f8ce0800000000000000
+      internalID: -1400774313843997597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_44
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fe7e05ff7366bb0800000000000000
+      internalID: -4943201971278975195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_45
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79764262d7b5ecfe0800000000000000
+      internalID: -1166894660373420137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_46
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6d6f66aab76ae80800000000000000
+      internalID: -8167704902387706203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_47
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 19
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36c2e151089e5dd0800000000000000
+      internalID: -2495390012080470468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_48
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c10c9eb809b6fa70800000000000000
+      internalID: 8860472764106801608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_49
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44af2b89ba0fe65f0800000000000000
+      internalID: -761406667187094972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_50
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c979c0f3382b020800000000000000
+      internalID: 2356089861885631594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_51
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1746cb33f99432de0800000000000000
+      internalID: -1359161714419145615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_52
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6705dacd5ebd2bb10800000000000000
+      internalID: 1995899365174890614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_53
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 0
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f440f15d400995b90800000000000000
+      internalID: -7252607374473624497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_54
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d680138800042f80800000000000000
+      internalID: -8132374990565636393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_55
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9423ed50852f65d0800000000000000
+      internalID: -3067191587954809700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_56
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c2f3d118f84ae80800000000000000
+      internalID: -8168246039439004593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_57
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d987c8f257ce1b20800000000000000
+      internalID: 3107139952107293136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_58
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da511cbdb27099e0800000000000000
+      internalID: -1616666106996368679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_59
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052c949235462dbc0800000000000000
+      internalID: -3759832430563179952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_60
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf892319004f18ff0800000000000000
+      internalID: -35479038769063685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemies - turtle1 - no background_61
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea47fcf2a1c88c90800000000000000
+      internalID: -7167265901187216660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 484af0f10b9eb0e4d807fa84f1c83255
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Enemies - turtle1 - no background_0: -4091621538468205394
+      Enemies - turtle1 - no background_1: -8318780145884877639
+      Enemies - turtle1 - no background_10: -23865540561458852
+      Enemies - turtle1 - no background_11: -6145498020906517968
+      Enemies - turtle1 - no background_12: 6423976494981150730
+      Enemies - turtle1 - no background_13: -1829561150295887811
+      Enemies - turtle1 - no background_14: 6992216544329226173
+      Enemies - turtle1 - no background_15: -4821777120534997064
+      Enemies - turtle1 - no background_16: 8552341045025714277
+      Enemies - turtle1 - no background_17: 2292623185420222644
+      Enemies - turtle1 - no background_18: 4413200591769823156
+      Enemies - turtle1 - no background_19: -82169279525984935
+      Enemies - turtle1 - no background_2: -5180976774787833204
+      Enemies - turtle1 - no background_20: 5338944223739717943
+      Enemies - turtle1 - no background_21: -1057403735708750065
+      Enemies - turtle1 - no background_22: 4697680283585346832
+      Enemies - turtle1 - no background_23: -780407887818950057
+      Enemies - turtle1 - no background_24: -3702566056801776785
+      Enemies - turtle1 - no background_25: -1793398379033054983
+      Enemies - turtle1 - no background_26: 6873552753820855492
+      Enemies - turtle1 - no background_27: -4849162961662548957
+      Enemies - turtle1 - no background_28: 1246213903024266774
+      Enemies - turtle1 - no background_29: 3525370675564577363
+      Enemies - turtle1 - no background_3: 3588875490915363107
+      Enemies - turtle1 - no background_30: -1218317184646767182
+      Enemies - turtle1 - no background_31: 9211170327298818753
+      Enemies - turtle1 - no background_32: -1036555843484613536
+      Enemies - turtle1 - no background_33: 6042110320379546726
+      Enemies - turtle1 - no background_34: 6107923342117068784
+      Enemies - turtle1 - no background_35: -3208463664688749868
+      Enemies - turtle1 - no background_36: -6457262042188547821
+      Enemies - turtle1 - no background_37: 9105995081957305542
+      Enemies - turtle1 - no background_38: 2655233885564400891
+      Enemies - turtle1 - no background_39: 1349576145751931583
+      Enemies - turtle1 - no background_4: -4055133721876014495
+      Enemies - turtle1 - no background_40: 5320323337230357008
+      Enemies - turtle1 - no background_41: -389475555701383526
+      Enemies - turtle1 - no background_42: -7628629660881966564
+      Enemies - turtle1 - no background_43: -1400774313843997597
+      Enemies - turtle1 - no background_44: -4943201971278975195
+      Enemies - turtle1 - no background_45: -1166894660373420137
+      Enemies - turtle1 - no background_46: -8167704902387706203
+      Enemies - turtle1 - no background_47: -2495390012080470468
+      Enemies - turtle1 - no background_48: 8860472764106801608
+      Enemies - turtle1 - no background_49: -761406667187094972
+      Enemies - turtle1 - no background_5: -2755825389657415197
+      Enemies - turtle1 - no background_50: 2356089861885631594
+      Enemies - turtle1 - no background_51: -1359161714419145615
+      Enemies - turtle1 - no background_52: 1995899365174890614
+      Enemies - turtle1 - no background_53: -7252607374473624497
+      Enemies - turtle1 - no background_54: -8132374990565636393
+      Enemies - turtle1 - no background_55: -3067191587954809700
+      Enemies - turtle1 - no background_56: -8168246039439004593
+      Enemies - turtle1 - no background_57: 3107139952107293136
+      Enemies - turtle1 - no background_58: -1616666106996368679
+      Enemies - turtle1 - no background_59: -3759832430563179952
+      Enemies - turtle1 - no background_6: -5562258489832806755
+      Enemies - turtle1 - no background_60: -35479038769063685
+      Enemies - turtle1 - no background_61: -7167265901187216660
+      Enemies - turtle1 - no background_7: -5883390517919217140
+      Enemies - turtle1 - no background_8: -837655228795736211
+      Enemies - turtle1 - no background_9: -1302374897156167311
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
