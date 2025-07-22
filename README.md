@@ -107,4 +107,4 @@ The Earth Quake mechanic is an original addition to enhance gameplay.
 
 ## 🚀 Play the Game
 
-Download the build folder
+Download the build file
